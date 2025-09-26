@@ -113,7 +113,3 @@ The model demonstrates excellent performance across all digit classes with:
 - matplotlib 3.7+
 - numpy 1.24+
 - tqdm 4.65+
-
-## License
-
-This project is open source and available under the MIT License.
