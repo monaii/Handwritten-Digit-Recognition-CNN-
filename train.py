@@ -140,8 +140,7 @@ class Trainer:
             optimizer, 
             mode='max', 
             factor=0.5, 
-            patience=3, 
-            verbose=True
+            patience=3
         )
         
         print(f"\nStarting training for {epochs} epochs...")
